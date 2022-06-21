@@ -1,0 +1,44 @@
+body{
+    background-color: cadetblue;
+}
+ul{
+    list-style-type:none;
+    display:block;
+}
+#li{
+    text-decoration: none;
+    display:inline;
+    padding:20px;
+    margin:10px;
+    color:white;
+}
+li a{
+    color:white;
+}
+#search{
+    float:right;
+}
+#nav{
+    background-color:brown;
+    padding:20px;
+    
+}
+#lhead{
+    width:932px;
+    float:left;
+    background-color: yellow;
+    height: 600px;
+}
+#rhead{
+    width:400px;
+    height: 600px;
+    float:right;
+    background-color:palevioletred
+}
+.btn{
+    background-color: green;
+    height: 100px;
+    width:200px;
+    color:white;
+    font-size: 30px;
+}
